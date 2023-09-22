@@ -8,7 +8,7 @@
 
 ## Step-by-Step
 ~~~bash
-git clone <git url>
+git clone https://github.com/danilusantos/docker-webserver.git
 ~~~  
 
 - ou baixe o arquivo zip e descompacte onde preferir;
